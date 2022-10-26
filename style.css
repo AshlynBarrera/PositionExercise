@@ -81,14 +81,13 @@ body {
     background: #ffd300;
     position: fixed;
     right: 0;
-    top: 0 ;
   }
   
   #time {
     background: #12e772;
     position: fixed;
     right: 0;
-    top: 150 ;
+    top: 0 ;
   }
   
   #scroll {
